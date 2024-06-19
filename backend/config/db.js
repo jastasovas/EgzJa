@@ -1,5 +1,3 @@
-//AXMYiYMZYJbuuMrB
-//mongodb+srv://<username>:<password>@clusteregzo.jdi6ahf.mongodb.net/?retryWrites=true&w=majority&appName=Clusteregzo
 
 const mongoose = require("mongoose");
 
