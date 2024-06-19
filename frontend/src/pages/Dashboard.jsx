@@ -41,9 +41,9 @@ function Dashboard() {
         <h1>Welcome {user && user.name}</h1>
       </section>
 
-      {/* <GoalForm /> */}
+      <GoalForm />
 
-      {/* <section className="content">
+      <section className="content">
         {goals.length > 0 ? (
           <div className="goals">
             {goals.map((goal) => (
@@ -53,7 +53,7 @@ function Dashboard() {
         ) : (
           <h3></h3>
         )}
-      </section> */}
+      </section>
     </>
   );
 }
